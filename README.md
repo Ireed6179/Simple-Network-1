@@ -67,27 +67,5 @@ Gained experience configuring multiple router interfaces for different networks
 Improved troubleshooting using ping and interface verification
 Understood how routers enable communication between isolated LANs
 
-Future Improvements
-Here’s where you level this up (and you should):
-Implement VLANs to segment traffic logically
-Add DHCP to automate IP assignment
-Introduce OSPF for dynamic routing
-Apply ACLs for basic security control
 
-How to Use This Project
-Open the .pkt file in Cisco Packet Tracer
-Review router interface configurations
-Check IP addressing on each PC
-Run ping tests across different networks
-Modify configurations to test scalability
-
-This shows:
-segmentation
-routing between networks
-
-You’re starting to think like a network engineer
-What’s missing (and what gets you hired):
-VLANs
-DHCP
-One dynamic routing protocol
 
